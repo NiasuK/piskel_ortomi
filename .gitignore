@@ -28,6 +28,9 @@ diff.txt
 dest
 build/closure/closure_compiled_binary.js
 
+#piskel offline build for desktop
+piskel
+
 # spriting artifacts
 src/img/icons.png
 src/img/icons@2x.png
